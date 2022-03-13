@@ -25,7 +25,7 @@
 }
 
 header {
-    height: 500px;
+    height: 600px;
     background-image: url('https://i.postimg.cc/Sx4kqLCJ/pexels-rodolfo-quir-s-2330137.jpg');
     object-fit: cover;
     background-position: center center;
@@ -63,5 +63,49 @@ header {
     margin: auto;
     text-align: center;
     color: white;
+}
 
+section h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.sub-title {
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+    margin-top: 10px;
+}
+
+.card-logo {
+    margin-top: 35px;
+    display: flex;
+    color: yellowgreen;
+    
+}
+
+.services i {
+    font-size: 40px;
+    margin: auto;
+    border-radius: 100px;
+    border-style: solid;
+    padding: 15px;
+}
+
+.card-body h3 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 1000;
+    }
+
+.card-body p {
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 300;
+    letter-spacing: 1px;
 }
