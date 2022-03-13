@@ -127,3 +127,39 @@ img {
     height: 350px;
     object-fit: cover;
 }
+
+.portfolio p {
+    padding-bottom: 25px;
+}
+
+footer p {
+    font-family: 'Oswald', sans-serif;   
+    vertical-align: middle;
+}
+
+.social-media ul li {
+    list-style-type: none;
+    display: inline;
+    padding-right: 15px;
+    
+}
+
+.social-media ul li a {
+    font-size: 0;
+}
+
+.social-media ul li i {
+    font-size: 18px;
+    color: white;
+    background-color: black;
+    border-radius: 50%;
+    /*padding: 20px;
+    width: 15px;
+    height: 15px;*/
+    padding-left: 10px;
+    padding-top: 12px;;
+    height: 35px;
+    width: 35px;
+    line-height: 10px;
+   
+}
