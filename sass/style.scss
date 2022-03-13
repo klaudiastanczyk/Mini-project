@@ -1,11 +1,32 @@
 .menu ul li {
     list-style-type: none;
     display: inline;
+    padding-right: 15px;
+  }
+
+.menu ul {
+    text-align: center;
+    margin-top: 40px;;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.logo {
+    font-family: 'Dancing Script', cursive;
+    color:yellow;
+    font-size: 35px;
+    
 }
 
 header {
     height: 500px;
-    background-image: url('https://i.postimg.cc/xd7LBZHr/pexels-julia-m-cameron-4145190.jpg');
+    background-image: url('https://i.postimg.cc/Sx4kqLCJ/pexels-rodolfo-quir-s-2330137.jpg');
     object-fit: cover;
     background-position: center center;
     background-size: cover;
