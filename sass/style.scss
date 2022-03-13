@@ -2,3 +2,12 @@
     list-style-type: none;
     display: inline;
 }
+
+header {
+    height: 500px;
+    background-image: url('https://i.postimg.cc/xd7LBZHr/pexels-julia-m-cameron-4145190.jpg');
+    object-fit: cover;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}

@@ -3,4 +3,14 @@
   display: inline;
 }
 
-/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLHFCQUFBO0VBQ0EsZUFBQTtBQ0NKIiwiZmlsZSI6InN0eWxlLmNzcyJ9 */
+header {
+  height: 500px;
+  background-image: url("https://i.postimg.cc/xd7LBZHr/pexels-julia-m-cameron-4145190.jpg");
+  -o-object-fit: cover;
+     object-fit: cover;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLHFCQUFBO0VBQ0EsZUFBQTtBQ0NKOztBREVBO0VBQ0ksYUFBQTtFQUNBLHlGQUFBO0VBQ0Esb0JBQUE7S0FBQSxpQkFBQTtFQUNBLGtDQUFBO0VBQ0Esc0JBQUE7RUFDQSw0QkFBQTtBQ0NKIiwiZmlsZSI6InN0eWxlLmNzcyJ9 */
