@@ -32,3 +32,36 @@ header {
     background-size: cover;
     background-attachment: fixed;
 }
+
+.header-title h2 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.header-title h1 {
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    font-size: 70px;
+    text-align: center;
+}
+
+.wrap {
+    display: flex;
+}
+
+.btn {
+    font-family: 'Oswald', sans-serif;
+    min-width: 160px;
+    padding: 16px;
+    border-radius: 5px;
+    font-size: 20px;
+    text-decoration: none;
+    cursor: pointer;
+    background-color: yellowgreen;
+    margin: auto;
+    text-align: center;
+    color: white;
+
+}
